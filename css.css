@@ -11,3 +11,7 @@
   .custom-logo{
     height: 80px;  
   }
+
+  hr{
+    border-color:blue;
+  }
